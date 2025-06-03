@@ -1,6 +1,6 @@
 # Tutorial 1
 
-Exercise 1.1: For each of the following statements, indicate whether it is Write or Wrong. If the statement is Wrong, briefly explain the reason.
+## Exercise 1.1: For each of the following statements, indicate whether it is Write or Wrong. If the statement is Wrong, briefly explain the reason.
 
 1.1.1 With no data, there is no statistics.
 
@@ -28,7 +28,7 @@ Exercise 1.1: For each of the following statements, indicate whether it is Write
 
 
 
-Exercise 2: Provide examples of research projects that use (a) only structured data, (b) only unstructured data, and (c) a combination of both.
+## Exercise 2: Provide examples of research projects that use (a) only structured data, (b) only unstructured data, and (c) a combination of both.
 
 
 
