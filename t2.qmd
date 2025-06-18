@@ -1,0 +1,24 @@
+# Tutorial 2
+
+
+
+Sri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals on Saturday, March 15. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.
+
+  Suppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.
+
+  Prepare a concise guideline document that includes the following:
+
+- A rough sketch of the Excel sheet layout, showing column headings and sample rows.
+
+- A clear explanation of what each row and each column represents in the spreadsheet.
+
+- A list of variable names with detailed descriptions, including data types (e.g., numeric, categorical).
+
+- Guidelines on:
+    - Handling missing observations 
+    - Dealing with unreadable handwritten responses from the census forms.
+    - Any other important rules to ensure data accuracy and consistency.
+    
+  Ensure that the guidelines are short, clear, and easy to follow, allowing data entry operators to efficiently and accurately input the collected census data. The census sheet used to collect the data is provided below. 
+
+![](form.png)

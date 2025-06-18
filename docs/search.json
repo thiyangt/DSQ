@@ -28,5 +28,15 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Tutorial 1</span>"
     ]
+  },
+  {
+    "objectID": "t2.html",
+    "href": "t2.html",
+    "title": "2  Tutorial 2",
+    "section": "",
+    "text": "Sri Lanka’s Ministry of Agriculture recently conducted a census of crop-damaging animals on Saturday, March 15. The counts of toque macaques, monkeys, giant squirrels, and peacocks were recorded. The next step is to enter the collected data into an Excel spreadsheet for effective analysis.\nSuppose you are responsible for creating an Excel sheet for data entry and establishing clear guidelines for data entry operators.\nPrepare a concise guideline document that includes the following:\n\nA rough sketch of the Excel sheet layout, showing column headings and sample rows.\nA clear explanation of what each row and each column represents in the spreadsheet.\nA list of variable names with detailed descriptions, including data types (e.g., numeric, categorical).\nGuidelines on:\n\nHandling missing observations\nDealing with unreadable handwritten responses from the census forms.\nAny other important rules to ensure data accuracy and consistency.\n\nEnsure that the guidelines are short, clear, and easy to follow, allowing data entry operators to efficiently and accurately input the collected census data. The census sheet used to collect the data is provided below.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Tutorial 2</span>"
+    ]
   }
 ]
